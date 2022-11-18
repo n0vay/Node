@@ -1,3 +1,1 @@
-const name = "yoshi";
-
-console.log(name);
+console.log(global);
